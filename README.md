@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2> Hi there, I'm Abdelrahman Ibrahem 👋:heart: </h2>
 
-<!--
-**abdelrahman-ibrahem/abdelrahman-ibrahem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
+ 
+-I am  a software engineer with hands-on experience in designing, implementing and adapting technically sophisticated online web applications using various back-end technologies (Django / Node js).
+<hr>
 
-Here are some ideas to get you started:
+<h2> Contact with me on </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Where to find me</h3>
+
+- personal email : abdo.ibrahem1122@gmail.com
+- linkedIn : https://www.linkedin.com/in/abdo-ibrahem-444519142
+<hr>
