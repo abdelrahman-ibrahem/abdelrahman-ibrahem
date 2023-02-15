@@ -10,5 +10,5 @@
 <h3>Where to find me</h3>
 
 - personal email : abdo.ibrahem1122@gmail.com
-- linkedIn : https://www.linkedin.com/in/abdo-ibrahem-444519142
+- linkedIn : https://www.linkedin.com/in/abdelrahman-ibrahem-444519142/
 <hr>
